@@ -1,4 +1,4 @@
-# This fork is intended for testing Shibboleth authentication on a Node.js server (reverse-proxied behind Apache) on the SP
+# This fork is intended for testing Shibboleth authentication on a Node.js server (reverse-proxied behind Apache) on the SP. To run the test, simply install docker-compose and run `docker-compose up`
 # dockerized-idp-testbed
 
 Used to validate the following Unicon docker images:
